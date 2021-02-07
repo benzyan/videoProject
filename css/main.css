@@ -201,8 +201,11 @@ transform: scale(0.7) translateY(-20px);
 {
   right: 120px;
     background-color: white;
-    z-index:1;
+    
 }
+    .menu ul{
+        z-index:1;
+    }
 }
 
 
