@@ -197,6 +197,10 @@ transform: scale(0.7) translateY(-20px);
     .text{
         padding: 120px 0;
     }
+    .showcase.active
+{
+  right: 120px;
+}
 }
 
 
