@@ -203,9 +203,7 @@ transform: scale(0.7) translateY(-20px);
     background-color: white;
     
 }
-    .menu ul{
-        z-index:1000;
-    }
+   
 }
 
 
