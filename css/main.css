@@ -99,7 +99,7 @@ a{
     position:relative;
     z-index:10;
     padding: 7em;
-    margin: 4em;
+    width: 90%;
     
 }
 .text h2{
