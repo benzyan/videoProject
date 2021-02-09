@@ -11,9 +11,7 @@
     letter-spacing: 1.2px;
     list-style: none;
 }
-body{
-    width:100%;
-}
+
 a{
     text-decoration: none;
 }
@@ -203,7 +201,7 @@ transform: scale(0.7) translateY(-20px);
     .showcase.active
 {
   right: 120px;
-    background-color: white;
+
     
 }
    
