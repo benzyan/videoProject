@@ -96,9 +96,10 @@ a{
 }
 
 .text{
-    position:sticky;
+    position:relative;
     z-index:10;
-    padding: 4em 3em;
+    padding: 7em;
+    margin: 4em;
     
 }
 .text h2{
