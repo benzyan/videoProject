@@ -20,7 +20,7 @@ a{
     right: 0;
     width: 100%;
     min-height: 100vh;
-    padding:100px 0;
+    padding:100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -98,7 +98,7 @@ a{
 .text{
     position:relative;
     z-index:10;
-    padding: 13em;
+  
     
     
 }
