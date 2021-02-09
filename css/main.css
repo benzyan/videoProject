@@ -33,7 +33,7 @@ a{
 }
 .showcase.active
 {
-  right: 200px;
+  right: 100px;
 }
 .showcase .toggle{
     position: relative;
