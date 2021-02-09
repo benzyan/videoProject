@@ -18,7 +18,7 @@ a{
 .showcase{
     position:absolute;
     right: 0;
-    width: 100%;
+    width: 90%;
     min-height: 100vh;
     padding:100px 0;
     display: flex;
@@ -99,7 +99,7 @@ a{
     position:relative;
     z-index:10;
     padding: 7em;
-    width: 90%;
+    
     
 }
 .text h2{
